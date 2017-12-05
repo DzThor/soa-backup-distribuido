@@ -3,7 +3,7 @@ Autor: Daniel Ramírez Concepción
 # Backup distribuido
 Utilizando Qt he creado un sistema de backup distribuido propio.
 
-La aquitectura será muchos a uno. Es decir, un cliente envia los datos a un servidor y este los distribuye a varios clientes, los cuales almacenan los archivos en su sistema de archivos local:
+La arquitectura será muchos a uno. Es decir, un cliente envia los datos a un servidor y este los distribuye a varios clientes, los cuales almacenan los archivos en su sistema de archivos local:
 
 # Programas
 
